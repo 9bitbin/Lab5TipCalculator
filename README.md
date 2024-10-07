@@ -33,3 +33,4 @@ This project is part of 📘 *CSC 325 - Software Engineering* Lab 5, with a focu
 
 #Check out my other project as well 
 **https://github.com/9bitbin/Lab5ColorChooser**
+###THE COLOR CHOOSER APP
